@@ -57,6 +57,12 @@ footer a:hover {
     text-decoration: none;
 }
 
+.content-wrapper {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 30px;
+}
+
 /* HOMES
 ---------------------------------------*/
 .home {
